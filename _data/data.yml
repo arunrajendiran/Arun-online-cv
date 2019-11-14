@@ -25,10 +25,10 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Tamil
         level: Native
 
-      - idiom: TAMIL
+      - idiom: English
         level: Professional
 
     interests:
