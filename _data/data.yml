@@ -16,7 +16,7 @@ sidebar:
     phone: +91-9629557681
     website: N/A #do not add http://
     linkedin: alandoe
-    github: sharu725
+    github: arunrajendiran
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -28,17 +28,14 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: TAMIL
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Watching TV
         link:
 
-      - item: Snowboarding
+      - item: Trekking
         link:
 
       - item: Cooking
@@ -53,33 +50,11 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Mainframe Endevor Admin
+      time: 2016 - Present
+      company: DXC.Technology, Chennai,India.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +67,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer
+      time: 2013 - 2016
+      company: IBM India private Ltd, Chennai, India.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
